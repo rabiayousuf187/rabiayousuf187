@@ -23,24 +23,23 @@
   </p>
   <p>🚀 Constantly keeping up with the latest industry trends, I love exploring new tools and frameworks that enhance my development process. I believe in continuous learning and growth to ensure my skills stay relevant in the ever-evolving web landscape.
   </p>
+  <br>
+  <p>🌟 Here's a glimpse of my skill set:</p>
+  <ul>
+  <li>HTML5, CSS3, JavaScript (ES6+)</li>
+  <li>Responsive Web Design</li>
+  <li>CSS frameworks like Bootstrap</li>
+  <li>Front-end frameworks like React.js (Inprogress)</li>
+  <li>Version control with Git</li>
+  <li>Web accessibility best practices</li>
+  <li>Cross-browser compatibility</li>
+  <li>Performance optimization</li>
+  <li>UI/UX principles</li>
+  </ul>
+  <br>
+<p>📫 If you're interested in collaborating on a project or have any questions, feel free to reach out. I'm always excited to connect with fellow developers and designers!</p>
+<br>
+<p>Let's create impactful web experiences together! ✨</p>
 
 
 
-
-
-
-
-🌟 Here's a glimpse of my skill set:
-- HTML5, CSS3, JavaScript (ES6+)
-- Responsive Web Design
-- CSS frameworks like Bootstrap
-- Front-end frameworks like React.js
-- Version control with Git
-- Web accessibility best practices
-- Cross-browser compatibility
-- Performance optimization
-- UI/UX principles
-
-📫 If you're interested in collaborating on a project or have any questions, feel free to reach out. I'm always excited to connect with fellow developers and designers!
-
-Let's create impactful web experiences together! ✨
