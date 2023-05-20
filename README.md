@@ -10,8 +10,12 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=rabiayousuf187&style=flat-square&color=blue" alt=""/>
-
+<div id="badges">
+  <img src="https://komarev.com/ghpvc/?username=rabiayousuf187&style=flat-square&color=blue" alt=""/>
+  <a href="https://www.linkedin.com/mwlite/in/rabia-yousuf-b17862185">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 🎨 As a creative professional, I specialize in crafting visually appealing and user-friendly websites. I have a strong command of HTML, CSS, JavaScript, and Bootstrap to bring designs to life. Whether it's building responsive layouts, implementing interactive features, or optimizing performance, I strive to create seamless web experiences.
 
