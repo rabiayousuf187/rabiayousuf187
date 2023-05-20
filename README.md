@@ -1,5 +1,17 @@
-                                                            👋 Hi there! I'm Rabia Yousuf,
-                                            A passionate Web Designer with a focus on Front-End Development from Pakistan  🌐
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hi there! I'm Rabia Yousuf
+</h1>   
+<h4 align="center">
+  A passionate Web Designer with a focus on Front-End Development from Pakistan  🌐
+</h4>
+                                            
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<img src="https://komarev.com/ghpvc/?username=rabiayousuf187&style=flat-square&color=blue" alt=""/>
+
 
 🎨 As a creative professional, I specialize in crafting visually appealing and user-friendly websites. I have a strong command of HTML, CSS, JavaScript, and Bootstrap to bring designs to life. Whether it's building responsive layouts, implementing interactive features, or optimizing performance, I strive to create seamless web experiences.
 
