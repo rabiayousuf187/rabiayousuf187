@@ -56,10 +56,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   </div>
-
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiayousuf187&show_icons=true&theme=ADD_THEME_HERE">
 <h3 color="blue">Rabia Yousuf's GitHub Stats:</h3>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=rabiayousuf187&border_radius=5" width="400">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiayousuf187&show_icons=true&theme=ADD_THEME_HERE" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=rabiayousuf187&show_icons=true&theme=radical">
 <img src="https://github-readme-stats.vercel.app/api?username=rabiayousuf187&show_icons=true&bg_color=00000000">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
 [![Top Langs]()](https://github.com/rabiayousuf187/github-readme-stats)
