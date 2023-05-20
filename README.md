@@ -59,5 +59,4 @@
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiayousuf187&show_icons=true&theme=ADD_THEME_HERE">
 <img src="https://github-readme-stats.vercel.app/api?username=rabiayousuf187&show_icons=true&bg_color=00000000">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=rabiayousuf187&border_radius=5" width="400">
-<img src="https://github-readme-stats.vercel.app/api?username=rabiayousuf187&show_icons=true&theme=radical">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=rabiayousuf187&border_radius=5">
