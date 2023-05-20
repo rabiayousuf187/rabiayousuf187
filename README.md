@@ -1,4 +1,4 @@
-                                                            👋 Hi there! I'm **Rabia Yousuf**,
+                                                            👋 Hi there! I'm Rabia Yousuf,
                                             A passionate Web Designer with a focus on Front-End Development from Pakistan  🌐
 
 🎨 As a creative professional, I specialize in crafting visually appealing and user-friendly websites. I have a strong command of HTML, CSS, JavaScript, and Bootstrap to bring designs to life. Whether it's building responsive layouts, implementing interactive features, or optimizing performance, I strive to create seamless web experiences.
