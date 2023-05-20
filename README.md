@@ -60,6 +60,7 @@
 <h3 color="blue">Rabia Yousuf's GitHub Stats:</h3>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=rabiayousuf187&border_radius=5" width="400">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiayousuf187&show_icons=true&theme=ADD_THEME_HERE" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=rabiayousuf187&show_icons=true&bg_color=00000000">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
 [![Top Langs]()](https://github.com/rabiayousuf187/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rabiayousuf187&border_radius=5)](https://git.io/streak-stats)
