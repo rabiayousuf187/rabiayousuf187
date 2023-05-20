@@ -37,7 +37,11 @@
   <li>UI/UX principles</li>
   </ul>
   <br>
-<p>📫 If you're interested in collaborating on a project or have any questions, feel free to reach out. I'm always excited to connect with fellow developers and designers!</p>
+<p>📫 If you're interested in collaborating on a project or have any questions, feel free to reach out. I'm always excited to connect with fellow developers and designers! 
+  <a href="https://www.linkedin.com/mwlite/in/rabia-yousuf-b17862185">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="70px"/>
+  </a>
+</p>
 <br>
 <p>Let's create impactful web experiences together! ✨</p>
 
