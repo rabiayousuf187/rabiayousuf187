@@ -17,14 +17,18 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=rabiayousuf187&style=flat-square&color=blue" alt=""/>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-🎨 As a creative professional, I specialize in crafting visually appealing and user-friendly websites. I have a strong command of HTML, CSS, JavaScript, and Bootstrap to bring designs to life. Whether it's building responsive layouts, implementing interactive features, or optimizing performance, I strive to create seamless web experiences.
+  <p>🎨 As a creative professional, I specialize in crafting visually appealing and user-friendly websites. I have a strong command of HTML, CSS, JavaScript, and Bootstrap to bring designs to life. Whether it's building responsive layouts, implementing interactive features, or optimizing performance, I strive to create seamless web experiences.
+  </p>
+  <p>💡 With a keen eye for detail and a passion for clean code, I'm committed to delivering high-quality results. I enjoy collaborating with clients and teams to understand their unique requirements and transform their ideas into engaging digital solutions.
+  </p>
+  <p>🚀 Constantly keeping up with the latest industry trends, I love exploring new tools and frameworks that enhance my development process. I believe in continuous learning and growth to ensure my skills stay relevant in the ever-evolving web landscape.
+  </p>
 
-💡 With a keen eye for detail and a passion for clean code, I'm committed to delivering high-quality results. I enjoy collaborating with clients and teams to understand their unique requirements and transform their ideas into engaging digital solutions.
 
-🚀 Constantly keeping up with the latest industry trends, I love exploring new tools and frameworks that enhance my development process. I believe in continuous learning and growth to ensure my skills stay relevant in the ever-evolving web landscape.
+
+
+
+
 
 🌟 Here's a glimpse of my skill set:
 - HTML5, CSS3, JavaScript (ES6+)
