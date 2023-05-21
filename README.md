@@ -16,6 +16,7 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=rabiayousuf187&style=flat-square&color=blue" alt=""/>
+<img src="https://github-profile-trophy.vercel.app/?username=rabiayousuf187&margin-w=15">
 
   <p>🎨 As a creative professional, I specialize in crafting visually appealing and user-friendly websites. I have a strong command of HTML, CSS, JavaScript, and Bootstrap to bring designs to life. Whether it's building responsive layouts, implementing interactive features, or optimizing performance, I strive to create seamless web experiences.
   </p>
