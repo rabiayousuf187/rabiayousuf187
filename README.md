@@ -14,10 +14,10 @@
   <a href="https://www.linkedin.com/mwlite/in/rabia-yousuf-b17862185">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2314BE07&title_bg=%23555555&icon=pocketcasts.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-  </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=rabiayousuf187&style=flat-square&color=blue" alt=""/>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2314BE07&title_bg=%23555555&icon=pocketcasts.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/>
+
 <img src="https://github-profile-trophy.vercel.app/?username=rabiayousuf187&margin-w=15">
 
   <p>🎨 As a creative professional, I specialize in crafting visually appealing and user-friendly websites. I have a strong command of HTML, CSS, JavaScript, and Bootstrap to bring designs to life. Whether it's building responsive layouts, implementing interactive features, or optimizing performance, I strive to create seamless web experiences.
@@ -67,3 +67,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiayousuf187&show_icons=true&theme=ADD_THEME_HERE">
 <img src="https://github-readme-stats.vercel.app/api?username=rabiayousuf187&show_icons=true&bg_color=00000000">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=rabiayousuf187&border_radius=5">
+<img src="https://github.com/gjbae1212/hit-counter"/>
