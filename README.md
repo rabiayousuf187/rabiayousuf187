@@ -1,6 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  Hi there! I'm Rabia Yousuf
+  Hi<img src="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.webp" width="30px"/>there! I'm Rabia Yousuf
 </h1>   
 <h4 align="center">
   A passionate Web Designer with a focus on Front-End Development from Pakistan  🌐
